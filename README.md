@@ -1,14 +1,14 @@
-# JavaScript
- 
+ JavaScript
 <!doctype html> 
 lang="en" dir="ltr">
-   <haed><haed>
+   <haed><haed>        
          <haed><haed>
+          (hello the workl)
 <meta charset="utf-8">
 <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM)
     <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
-<meta name="google-signin-client-id" content=244145628679>
+<meta name="google-signin-client-id" content= 244145628679>
 googlee9c9e70123469956.      "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",  "android_client_info": {apps.googleusercontent.com">"oauth2": {
 "client_id": "665859454684.apps.googleusercontent.com",
 "scopes": 
@@ -18,18 +18,19 @@ to property="og:type" content="website"meta name="theme-color" wm #039be5meta ch
 000 ceta content="IE-Edge" http-equiv="X-UA-Compatible"> seta nanes"vimport"
 content="width=device-width, initial-scales       
 
-	  <meta name="document-type" content="Public">
+<meta name="document-type" content="Public">
 <meta name="document-rating" content="Safe for Kids">
 <meta name="robots" content="ALL, INDEX, FOLLOW">
 <meta name="googlebot" content="index, follow">
 <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{
 
-	<meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
+   
     <link rel="apple-touch-icon" href="https:/  /files/971938/favicon/favicon.png?v=528721588"/>
 <meta name="theme-color" content="#FFFFFF">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum
-<meta name="title" content="Rathana phone stor in  Phnom Penh">
+<meta name="title"content ="Rathana phone stor in  Phnom Penh">
 <meta name="description" content="Business As a loyal partner sell technology">
 <meta name="author" content="Rathana phone stor">
 <meta name="keywords" content=",Rathana phone Stor in Phnom Penh, in OTHER RETAIL">
@@ -45,7 +46,7 @@ content="width=device-width, initial-scales
         "review": {		
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Subscription Expired</title>
-     <meta name="csrf-tok"en" content="4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">                   <!-- Favicon -->
+     <meta name="csrf-tok"en" content="(Rathana phone store)                  <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websitesco./files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
 
         <!-- Google font -->
@@ -53,7 +54,7 @@ content="width=device-width, initial-scales
         <!-- BS4 minified v1.0.0 CSS -->
         <link rel="stylesheet" href="https:///e-store/css/bootstrap.min.css">
         <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="https:///e-store/css/custom.min.css?v=1051934873">
+        <link rel="stylesheet" href="https:///e-store/css/custom.min.css?v=1051934873"
         
         <link rel="stylesheet" href="https:///e-store/css/ecommerce.min.css?v=1627190672">                                                           
   <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
@@ -73,7 +74,7 @@ content="width=device-width, initial-scales
         
         <!-- Select2 css files -->
         <link media="none" onload="if(media!='all')media='all'"href="https:///common/css/select2.min.css" rel="stylesheet" />   
-       <!-- manifest request -->
+        <!-- manifest request -->
         <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
 
         <link rel="canonical" href="https:///index.php">
@@ -143,7 +144,7 @@ content="width=device-width, initial-scales
 							Use our
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
 							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://rathanaphonwebsiteco./ App
-							</a> <i class="fab fa-android"></i>
+							</a> <i class="fab fa-android"></i>($)
 						</div>
 					</div>
 				</div>
@@ -165,12 +166,12 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 <!-- Integration: Facebook Pixel Code -->
     <script>
              !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        if(f.fbq)return;n=f.fbq=function(){n.callMethod?
         n.callMethod.apply(n,arguments):n.queue.push(arguments)};
         if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
         n.queue=[];t=b.createElement(e);t.async=!0;
         t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        s.parentNode.insertBefore(t,s)(window, document,'script',
         'https://connect.facebook.net/en_US/fbevents.js');
         fbq('init', '');
         fbq('track', 'PageView');
@@ -182,8 +183,8 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 <!-- Integration: Google Adsense Code -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "",
+        (adsbygoogle = window.adsbygoogle || []).push($)
+            google_ad_client.apps
             enable_page_level_ads: true
         });
     </script>
@@ -200,7 +201,7 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "Rathana phone Stor",
-        "url": "https://",
+        "url": "https://"httpsrathanaphon.websitesco.app
         
     
     
@@ -291,12 +292,6 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 
 
            
-
-
-
-
-
-
 
 
 
