@@ -1,5 +1,5 @@
-
 <!DOCTYPE html>
+<html>
 <html lang="en">
     <head><footer></footer>
           </head><haed>
@@ -26,7 +26,44 @@
     <link rel="stylesheet" href="https:///website-store/css/bootstrap.min.css">
     <!-- Custom minified CSS -->
     <link rel="stylesheet" href="https:///website-store/css/custom.min.css?v=1051934873">
-    
+       <!-- Favicon -->
+    <link rel="icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+
+        <!-- Google font -->
+        <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
+        <!-- BS4 minified v1.0.0 CSS -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-store/css/bootstrap.min.css">
+        <!-- Custom minified CSS -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-store/css/custom.min.css?v=1051934873">
+        
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/e-store/css/ecommerce.min.css?v=1627190672">
+
+        
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+
+        <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/fonts/css/all.min.css">
+
+        <!-- Fancybox API -->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+
+        <!-- slick-->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick-theme.css"> 
+
+        
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/common/css/custom-toast.css">
+        
+        <!-- Select2 css files -->
+        <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websitesco/common/css/select2.min.css" rel="stylesheet" />
+
+        <!-- manifest request -->
+        <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
+
+        <link rel="canonical" href="https://httpsrathanaphon.websitesco/index.php">
+
+        <link rel="alternate" href="https://httpsrathanaphon.websitesco." hreflang="en-us">
+ 
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ga_trackingId" translatable="false">UA-65557217-3</string>
@@ -46,7 +83,7 @@
     <string name="project_id" translatable="false">mydemoapp</string>
 
 <body/>
-</body>
+   </body>
 dependencies {
   ...
   implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
@@ -94,8 +131,18 @@ messagingSenderId: "36947975269",
 					<div class="card shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img    
-              // Initialize Firebase
+
+                                                            <img    
+                                                       </a>
+							<br>
+							Or
+							<br>
+							Use our
+							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
+							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
+							</a> <i class="fab fa-android"></i>#8098ff  
+                           
+	      // Initialize Firebase
                 const app = initializeApp(firebaseConfig);
                 </script>
      <!DOCTYPE html>
@@ -111,12 +158,12 @@ messagingSenderId: "36947975269",
                           messagingSenderId: "36947975269",
                            appId: "1:36947975269:web:89c4c20f22566f7485fa8c"
      a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
-							</a>
-							<br>
-							Or
-							<br>
-							Use our
-							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
-							</a> <i class="fab fa-android"></i>#8098ff  
+							
+							
+							
+							
+							
+							
+														
+							
                
