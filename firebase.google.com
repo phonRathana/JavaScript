@@ -4,8 +4,8 @@
     <head><footer></footer>
           </head><haed>
               </head><haed>
-           ( hello the world )   
-  
+           ( hello the world )
+
     <meta charset="utf-8">
 <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
      <meta name="document-type" c
@@ -22,7 +22,7 @@
 <meta name="geo.placename" content="Phnom Penh">
 <meta name="geo.region" content="KH">
         <title>Rathana phone Shop1 in  Phnom Penh </title>
-         
+
 <!-- Fancybox API -->
       <!-- Google font -->
     <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
@@ -39,10 +39,10 @@
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.co/e-store/css/bootstrap.min.css">
         <!-- Custom minified CSS -->
         <link rel="stylesheet" href="https://httpsrathanaphon.websitesco./e-store/css/custom.min.css?v=
-        
+
         <link rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/css/ecommerce.min.css?v=
 
-        
+
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
 
         <!-- FontAwesome -->
@@ -52,12 +52,12 @@
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 
         <!-- slick-->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick.css"> 
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick-theme.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick.css">
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick-theme.css">
 
-        
+
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/common/css/custom-toast.css">
-        
+
         <!-- Select2 css files -->
         <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websites.co.in/common/css/select2.min.css" rel="stylesheet" />
 
@@ -68,7 +68,7 @@
 
         <link rel="alternate" href="https://httpsrathanaphon.websitesco." hreflang="en-us">
 
-        <script>   
+        <script>
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ga_trackingId" translatable="false"UA-98172888-1</string>337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com
@@ -94,7 +94,7 @@ dependencies {
   implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
   <html></html>
   <body style="background-color:powderblue;"></body>
-  <table></table> <html></html></resources>    <link rel="stylesheet" href="https:///e-store/css/ecommerce.min.css?v=1627190672">nvfjMCbvfgnvg vf      
+  <table></table> <html></html></resources>    <link rel="stylesheet" href="https:///e-store/css/ecommerce.min.css?v=1627190672">nvfjMCbvfgnvg vf
 <link media="none" onload="if(media!='all')media='all'"rel="stylesheet"Compiled class file// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
@@ -124,10 +124,10 @@ cbn
  apiKey: "AIzaSyBeBA-7d8KcBGhLEUXJNurgwjtFUmmFM68",
  authDomain: "httpshttpsrathanaphonwebsiteco.firebaseapp.com",    databaseURL: "https://httpshttpsrathanaphonwebsiteco-default-rtdb.firebaseio.com",
  projectId: "httpshttpsrathanaphonwebsiteco",
- storageBucket: "httpshttpsrathanaphonwebsiteco.appspot.com",   
+ storageBucket: "httpshttpsrathanaphonwebsiteco.appspot.com",
 messagingSenderId: "36947975269",
  appId: "1:36947975269:web:89c4c20f22566f7485fa8c"
-            
+
 </head>
 	<body style="height:100vh; background-color:#eee">
 		<div class="container d-flex h-100">
@@ -136,7 +136,7 @@ messagingSenderId: "36947975269",
 					<div class="card shadow">
 						<div class="row">
 							<div class="col-md-4 mx-auto">
-								<img    
+								<img
                                                </a>
 							<br>
 							Or
@@ -144,8 +144,8 @@ messagingSenderId: "36947975269",
 							Use our
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
 							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
-							</a> <i class="fab fa-android"></i>#8098ff  
-               
+							</a> <i class="fab fa-android"></i>#8098ff
+
 	    // Initialize Firebase
                 const app = initializeApp(firebaseConfig);
                 </script>
@@ -162,12 +162,12 @@ messagingSenderId: "36947975269",
                           messagingSenderId: "36947975269",
                            appId: "1:36947975269:web:89c4c20f22566f7485fa8c"
      a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
-							
-							
-							
-							
-							
-							
-													
-							
-               
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+{
+    "editor.codeLensFontSize": 100,
+    "editor.defaultColorDecorators": true,
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.experimental.asyncTokenization": true,
+    "files.autoSave": "onWindowChange",
+    "github.codespaces.devcontainerChangedNotificationStyle": "modal"
+}
